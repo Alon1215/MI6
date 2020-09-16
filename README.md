@@ -1,5 +1,5 @@
 # MI6_Concurrency_project
-SPL 2nd project - a system for the MI6 (James Bond) , practicing multiple threads program
+SPL 2nd project - a system for the MI6 (James Bond).
 
 ***The essence of the assignemnt is to learn how to program with multiple threads, and get familiar with concepts such as Singleton, Callbacks, Future and more.***
 
