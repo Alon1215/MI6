@@ -1,7 +1,7 @@
 # MI6_Concurrency_project
 SPL 2nd project - a system for the MI6 (James Bond) , practicing multiple threads program
 
-***The essence of the assignemnt is to learn how to work with threads.***
+***The essence of the assignemnt is to learn how to program with multiple threads, and get familiar with concepts such as Singleton, Callbacks, Future and more.***
 
 ## Summary
 In this assignment, we have implemented an program which demonstrates a good knowledge of concurrency programming and test driven development (TDD).
